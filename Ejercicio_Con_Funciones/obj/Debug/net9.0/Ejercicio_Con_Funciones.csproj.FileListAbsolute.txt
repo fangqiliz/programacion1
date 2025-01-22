@@ -1,0 +1,14 @@
+C:\Users\Fangqi\.vscode\programacion\Ejercicio_Con_Funciones\bin\Debug\net9.0\Ejercicio_Con_Funciones.exe
+C:\Users\Fangqi\.vscode\programacion\Ejercicio_Con_Funciones\bin\Debug\net9.0\Ejercicio_Con_Funciones.deps.json
+C:\Users\Fangqi\.vscode\programacion\Ejercicio_Con_Funciones\bin\Debug\net9.0\Ejercicio_Con_Funciones.runtimeconfig.json
+C:\Users\Fangqi\.vscode\programacion\Ejercicio_Con_Funciones\bin\Debug\net9.0\Ejercicio_Con_Funciones.dll
+C:\Users\Fangqi\.vscode\programacion\Ejercicio_Con_Funciones\bin\Debug\net9.0\Ejercicio_Con_Funciones.pdb
+C:\Users\Fangqi\.vscode\programacion\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fangqi\.vscode\programacion\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.AssemblyInfoInputs.cache
+C:\Users\Fangqi\.vscode\programacion\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.AssemblyInfo.cs
+C:\Users\Fangqi\.vscode\programacion\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Fangqi\.vscode\programacion\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.dll
+C:\Users\Fangqi\.vscode\programacion\Ejercicio_Con_Funciones\obj\Debug\net9.0\refint\Ejercicio_Con_Funciones.dll
+C:\Users\Fangqi\.vscode\programacion\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.pdb
+C:\Users\Fangqi\.vscode\programacion\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.genruntimeconfig.cache
+C:\Users\Fangqi\.vscode\programacion\Ejercicio_Con_Funciones\obj\Debug\net9.0\ref\Ejercicio_Con_Funciones.dll
