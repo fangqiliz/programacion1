@@ -1,0 +1,14 @@
+C:\Users\Fangqi\.vscode\programacion\ejercicio_Arreglo\obj\Debug\net9.0\ejercicio_Arreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fangqi\.vscode\programacion\ejercicio_Arreglo\obj\Debug\net9.0\ejercicio_Arreglo.AssemblyInfoInputs.cache
+C:\Users\Fangqi\.vscode\programacion\ejercicio_Arreglo\obj\Debug\net9.0\ejercicio_Arreglo.AssemblyInfo.cs
+C:\Users\Fangqi\.vscode\programacion\ejercicio_Arreglo\obj\Debug\net9.0\ejercicio_Arreglo.csproj.CoreCompileInputs.cache
+C:\Users\Fangqi\.vscode\programacion\ejercicio_Arreglo\bin\Debug\net9.0\ejercicio_Arreglo.exe
+C:\Users\Fangqi\.vscode\programacion\ejercicio_Arreglo\bin\Debug\net9.0\ejercicio_Arreglo.deps.json
+C:\Users\Fangqi\.vscode\programacion\ejercicio_Arreglo\bin\Debug\net9.0\ejercicio_Arreglo.runtimeconfig.json
+C:\Users\Fangqi\.vscode\programacion\ejercicio_Arreglo\bin\Debug\net9.0\ejercicio_Arreglo.dll
+C:\Users\Fangqi\.vscode\programacion\ejercicio_Arreglo\bin\Debug\net9.0\ejercicio_Arreglo.pdb
+C:\Users\Fangqi\.vscode\programacion\ejercicio_Arreglo\obj\Debug\net9.0\ejercicio_Arreglo.dll
+C:\Users\Fangqi\.vscode\programacion\ejercicio_Arreglo\obj\Debug\net9.0\refint\ejercicio_Arreglo.dll
+C:\Users\Fangqi\.vscode\programacion\ejercicio_Arreglo\obj\Debug\net9.0\ejercicio_Arreglo.pdb
+C:\Users\Fangqi\.vscode\programacion\ejercicio_Arreglo\obj\Debug\net9.0\ejercicio_Arreglo.genruntimeconfig.cache
+C:\Users\Fangqi\.vscode\programacion\ejercicio_Arreglo\obj\Debug\net9.0\ref\ejercicio_Arreglo.dll
