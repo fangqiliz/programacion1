@@ -1,0 +1,14 @@
+C:\Users\Fangqi\.vscode\programacion\garaje_POO\obj\Debug\net9.0\garaje_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fangqi\.vscode\programacion\garaje_POO\obj\Debug\net9.0\garaje_POO.AssemblyInfoInputs.cache
+C:\Users\Fangqi\.vscode\programacion\garaje_POO\obj\Debug\net9.0\garaje_POO.AssemblyInfo.cs
+C:\Users\Fangqi\.vscode\programacion\garaje_POO\obj\Debug\net9.0\garaje_POO.csproj.CoreCompileInputs.cache
+C:\Users\Fangqi\.vscode\programacion\garaje_POO\bin\Debug\net9.0\garaje_POO.exe
+C:\Users\Fangqi\.vscode\programacion\garaje_POO\bin\Debug\net9.0\garaje_POO.deps.json
+C:\Users\Fangqi\.vscode\programacion\garaje_POO\bin\Debug\net9.0\garaje_POO.runtimeconfig.json
+C:\Users\Fangqi\.vscode\programacion\garaje_POO\bin\Debug\net9.0\garaje_POO.dll
+C:\Users\Fangqi\.vscode\programacion\garaje_POO\bin\Debug\net9.0\garaje_POO.pdb
+C:\Users\Fangqi\.vscode\programacion\garaje_POO\obj\Debug\net9.0\garaje_POO.dll
+C:\Users\Fangqi\.vscode\programacion\garaje_POO\obj\Debug\net9.0\refint\garaje_POO.dll
+C:\Users\Fangqi\.vscode\programacion\garaje_POO\obj\Debug\net9.0\garaje_POO.pdb
+C:\Users\Fangqi\.vscode\programacion\garaje_POO\obj\Debug\net9.0\garaje_POO.genruntimeconfig.cache
+C:\Users\Fangqi\.vscode\programacion\garaje_POO\obj\Debug\net9.0\ref\garaje_POO.dll
