@@ -1,0 +1,14 @@
+C:\Users\Fangqi\.vscode\programacion\herencia\obj\Debug\net9.0\herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fangqi\.vscode\programacion\herencia\obj\Debug\net9.0\herencia.AssemblyInfoInputs.cache
+C:\Users\Fangqi\.vscode\programacion\herencia\obj\Debug\net9.0\herencia.AssemblyInfo.cs
+C:\Users\Fangqi\.vscode\programacion\herencia\obj\Debug\net9.0\herencia.csproj.CoreCompileInputs.cache
+C:\Users\Fangqi\.vscode\programacion\herencia\bin\Debug\net9.0\herencia.exe
+C:\Users\Fangqi\.vscode\programacion\herencia\bin\Debug\net9.0\herencia.deps.json
+C:\Users\Fangqi\.vscode\programacion\herencia\bin\Debug\net9.0\herencia.runtimeconfig.json
+C:\Users\Fangqi\.vscode\programacion\herencia\bin\Debug\net9.0\herencia.dll
+C:\Users\Fangqi\.vscode\programacion\herencia\bin\Debug\net9.0\herencia.pdb
+C:\Users\Fangqi\.vscode\programacion\herencia\obj\Debug\net9.0\herencia.dll
+C:\Users\Fangqi\.vscode\programacion\herencia\obj\Debug\net9.0\refint\herencia.dll
+C:\Users\Fangqi\.vscode\programacion\herencia\obj\Debug\net9.0\herencia.pdb
+C:\Users\Fangqi\.vscode\programacion\herencia\obj\Debug\net9.0\herencia.genruntimeconfig.cache
+C:\Users\Fangqi\.vscode\programacion\herencia\obj\Debug\net9.0\ref\herencia.dll
