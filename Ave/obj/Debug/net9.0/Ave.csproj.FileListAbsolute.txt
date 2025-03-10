@@ -1,0 +1,14 @@
+C:\Users\Fangqi\.vscode\programacion\Ave\obj\Debug\net9.0\Ave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fangqi\.vscode\programacion\Ave\obj\Debug\net9.0\Ave.AssemblyInfoInputs.cache
+C:\Users\Fangqi\.vscode\programacion\Ave\obj\Debug\net9.0\Ave.AssemblyInfo.cs
+C:\Users\Fangqi\.vscode\programacion\Ave\obj\Debug\net9.0\Ave.csproj.CoreCompileInputs.cache
+C:\Users\Fangqi\.vscode\programacion\Ave\bin\Debug\net9.0\Ave.exe
+C:\Users\Fangqi\.vscode\programacion\Ave\bin\Debug\net9.0\Ave.deps.json
+C:\Users\Fangqi\.vscode\programacion\Ave\bin\Debug\net9.0\Ave.runtimeconfig.json
+C:\Users\Fangqi\.vscode\programacion\Ave\bin\Debug\net9.0\Ave.dll
+C:\Users\Fangqi\.vscode\programacion\Ave\bin\Debug\net9.0\Ave.pdb
+C:\Users\Fangqi\.vscode\programacion\Ave\obj\Debug\net9.0\Ave.dll
+C:\Users\Fangqi\.vscode\programacion\Ave\obj\Debug\net9.0\refint\Ave.dll
+C:\Users\Fangqi\.vscode\programacion\Ave\obj\Debug\net9.0\Ave.pdb
+C:\Users\Fangqi\.vscode\programacion\Ave\obj\Debug\net9.0\Ave.genruntimeconfig.cache
+C:\Users\Fangqi\.vscode\programacion\Ave\obj\Debug\net9.0\ref\Ave.dll
