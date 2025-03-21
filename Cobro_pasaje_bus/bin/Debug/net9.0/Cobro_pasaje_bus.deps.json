@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Cobro_pasaje_bus/1.0.0": {
+        "runtime": {
+          "Cobro_pasaje_bus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cobro_pasaje_bus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

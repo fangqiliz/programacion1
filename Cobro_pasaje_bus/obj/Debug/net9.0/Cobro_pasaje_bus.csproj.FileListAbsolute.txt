@@ -1,0 +1,14 @@
+C:\Users\Fangqi\.vscode\programacion\Cobro_pasaje_bus\obj\Debug\net9.0\Cobro_pasaje_bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fangqi\.vscode\programacion\Cobro_pasaje_bus\obj\Debug\net9.0\Cobro_pasaje_bus.AssemblyInfoInputs.cache
+C:\Users\Fangqi\.vscode\programacion\Cobro_pasaje_bus\obj\Debug\net9.0\Cobro_pasaje_bus.AssemblyInfo.cs
+C:\Users\Fangqi\.vscode\programacion\Cobro_pasaje_bus\obj\Debug\net9.0\Cobro_pasaje_bus.csproj.CoreCompileInputs.cache
+C:\Users\Fangqi\.vscode\programacion\Cobro_pasaje_bus\bin\Debug\net9.0\Cobro_pasaje_bus.exe
+C:\Users\Fangqi\.vscode\programacion\Cobro_pasaje_bus\bin\Debug\net9.0\Cobro_pasaje_bus.deps.json
+C:\Users\Fangqi\.vscode\programacion\Cobro_pasaje_bus\bin\Debug\net9.0\Cobro_pasaje_bus.runtimeconfig.json
+C:\Users\Fangqi\.vscode\programacion\Cobro_pasaje_bus\bin\Debug\net9.0\Cobro_pasaje_bus.dll
+C:\Users\Fangqi\.vscode\programacion\Cobro_pasaje_bus\bin\Debug\net9.0\Cobro_pasaje_bus.pdb
+C:\Users\Fangqi\.vscode\programacion\Cobro_pasaje_bus\obj\Debug\net9.0\Cobro_pasaje_bus.dll
+C:\Users\Fangqi\.vscode\programacion\Cobro_pasaje_bus\obj\Debug\net9.0\refint\Cobro_pasaje_bus.dll
+C:\Users\Fangqi\.vscode\programacion\Cobro_pasaje_bus\obj\Debug\net9.0\Cobro_pasaje_bus.pdb
+C:\Users\Fangqi\.vscode\programacion\Cobro_pasaje_bus\obj\Debug\net9.0\Cobro_pasaje_bus.genruntimeconfig.cache
+C:\Users\Fangqi\.vscode\programacion\Cobro_pasaje_bus\obj\Debug\net9.0\ref\Cobro_pasaje_bus.dll
