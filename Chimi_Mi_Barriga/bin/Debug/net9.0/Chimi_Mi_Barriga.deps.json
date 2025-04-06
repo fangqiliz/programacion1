@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Chimi_Mi_Barriga/1.0.0": {
+        "runtime": {
+          "Chimi_Mi_Barriga.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chimi_Mi_Barriga/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

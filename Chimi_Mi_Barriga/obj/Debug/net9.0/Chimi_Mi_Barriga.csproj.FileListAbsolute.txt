@@ -1,0 +1,14 @@
+C:\Users\Fangqi\.vscode\programacion\Chimi_Mi_Barriga\obj\Debug\net9.0\Chimi_Mi_Barriga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fangqi\.vscode\programacion\Chimi_Mi_Barriga\obj\Debug\net9.0\Chimi_Mi_Barriga.AssemblyInfoInputs.cache
+C:\Users\Fangqi\.vscode\programacion\Chimi_Mi_Barriga\obj\Debug\net9.0\Chimi_Mi_Barriga.AssemblyInfo.cs
+C:\Users\Fangqi\.vscode\programacion\Chimi_Mi_Barriga\obj\Debug\net9.0\Chimi_Mi_Barriga.csproj.CoreCompileInputs.cache
+C:\Users\Fangqi\.vscode\programacion\Chimi_Mi_Barriga\bin\Debug\net9.0\Chimi_Mi_Barriga.exe
+C:\Users\Fangqi\.vscode\programacion\Chimi_Mi_Barriga\bin\Debug\net9.0\Chimi_Mi_Barriga.deps.json
+C:\Users\Fangqi\.vscode\programacion\Chimi_Mi_Barriga\bin\Debug\net9.0\Chimi_Mi_Barriga.runtimeconfig.json
+C:\Users\Fangqi\.vscode\programacion\Chimi_Mi_Barriga\bin\Debug\net9.0\Chimi_Mi_Barriga.dll
+C:\Users\Fangqi\.vscode\programacion\Chimi_Mi_Barriga\bin\Debug\net9.0\Chimi_Mi_Barriga.pdb
+C:\Users\Fangqi\.vscode\programacion\Chimi_Mi_Barriga\obj\Debug\net9.0\Chimi_Mi_Barriga.dll
+C:\Users\Fangqi\.vscode\programacion\Chimi_Mi_Barriga\obj\Debug\net9.0\refint\Chimi_Mi_Barriga.dll
+C:\Users\Fangqi\.vscode\programacion\Chimi_Mi_Barriga\obj\Debug\net9.0\Chimi_Mi_Barriga.pdb
+C:\Users\Fangqi\.vscode\programacion\Chimi_Mi_Barriga\obj\Debug\net9.0\Chimi_Mi_Barriga.genruntimeconfig.cache
+C:\Users\Fangqi\.vscode\programacion\Chimi_Mi_Barriga\obj\Debug\net9.0\ref\Chimi_Mi_Barriga.dll
